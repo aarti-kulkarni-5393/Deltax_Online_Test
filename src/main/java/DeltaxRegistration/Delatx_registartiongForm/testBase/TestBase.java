@@ -210,10 +210,7 @@ public class TestBase {
 			test.log(LogStatus.FAIL, test.addScreencast(takeScreenshot("")));
 		}
 		
-		else if (result.getStatus()==ITestResult.STARTED) {
-			test.log(LogStatus.INFO,result.getName()+"test started");
-			
-		}
+	
 			
 		}
 		

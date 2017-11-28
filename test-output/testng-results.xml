@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" ignored="0" total="4" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
-    <line>
-      <![CDATA[creating browser object chrome]]>
-    </line>
-    <line>
-      <![CDATA[listner registeration done]]>
-    </line>
     <line>
       <![CDATA[navigating tohttp://adjiva.com/qa-test/]]>
     </line>
@@ -17,25 +11,25 @@
       <![CDATA[==============  starting Tc_00_VerifyRegistrationwithValiddata===============]]>
     </line>
     <line>
-      <![CDATA[entered first name and object is:[[ChromeDriver: chrome on XP (c519e71672e27e76123c45a532fe40b9)] -> name: first_name]]]>
+      <![CDATA[entered first name and object is:[[FirefoxDriver: firefox on ANY (e7dda18a-898e-4362-83fa-450930ce0d1a)] -> name: first_name]]]>
     </line>
     <line>
-      <![CDATA[entered last name and object is:[[ChromeDriver: chrome on XP (c519e71672e27e76123c45a532fe40b9)] -> name: last_name]]]>
+      <![CDATA[entered last name and object is:[[FirefoxDriver: firefox on ANY (e7dda18a-898e-4362-83fa-450930ce0d1a)] -> name: last_name]]]>
     </line>
     <line>
-      <![CDATA[entered user name and object is:[[ChromeDriver: chrome on XP (c519e71672e27e76123c45a532fe40b9)] -> name: user_name]]]>
+      <![CDATA[entered user name and object is:[[FirefoxDriver: firefox on ANY (e7dda18a-898e-4362-83fa-450930ce0d1a)] -> name: user_name]]]>
     </line>
     <line>
-      <![CDATA[entered user password and object is:[[ChromeDriver: chrome on XP (c519e71672e27e76123c45a532fe40b9)] -> name: user_password]]]>
+      <![CDATA[entered user password and object is:[[FirefoxDriver: firefox on ANY (e7dda18a-898e-4362-83fa-450930ce0d1a)] -> name: user_password]]]>
     </line>
     <line>
-      <![CDATA[entered confirm user password and object is:[[ChromeDriver: chrome on XP (c519e71672e27e76123c45a532fe40b9)] -> name: confirm_password]]]>
+      <![CDATA[entered confirm user password and object is:[[FirefoxDriver: firefox on ANY (e7dda18a-898e-4362-83fa-450930ce0d1a)] -> name: confirm_password]]]>
     </line>
     <line>
-      <![CDATA[entered confirm email  and object is:[[ChromeDriver: chrome on XP (c519e71672e27e76123c45a532fe40b9)] -> name: email]]]>
+      <![CDATA[entered confirm email  and object is:[[FirefoxDriver: firefox on ANY (e7dda18a-898e-4362-83fa-450930ce0d1a)] -> name: email]]]>
     </line>
     <line>
-      <![CDATA[entered contact no  and object is:[[ChromeDriver: chrome on XP (c519e71672e27e76123c45a532fe40b9)] -> name: contact_no]]]>
+      <![CDATA[entered contact no  and object is:[[FirefoxDriver: firefox on ANY (e7dda18a-898e-4362-83fa-450930ce0d1a)] -> name: contact_no]]]>
     </line>
     <line>
       <![CDATA[submit button is not enabled]]>
@@ -44,7 +38,7 @@
       <![CDATA[screenshot has been taken for:registration_with_valid_data]]>
     </line>
     <line>
-      <![CDATA[<a href='C:\Users\aarti.kulkarni\workspace\Deltax\src\main\java\DeltaxRegistration\Delatx_registartiongForm\screenshotregistration_with_valid_data_28_11_2017_12_57_37.png'> <img src='C:\Users\aarti.kulkarni\workspace\Deltax\src\main\java\DeltaxRegistration\Delatx_registartiongForm\screenshotregistration_with_valid_data_28_11_2017_12_57_37.png'height='100' width ='100'/> </a>]]>
+      <![CDATA[<a href='C:\Users\aarti.kulkarni\workspace\Deltax\src\main\java\DeltaxRegistration\Delatx_registartiongForm\screenshotregistration_with_valid_data_28_11_2017_08_05_04.png'> <img src='C:\Users\aarti.kulkarni\workspace\Deltax\src\main\java\DeltaxRegistration\Delatx_registartiongForm\screenshotregistration_with_valid_data_28_11_2017_08_05_04.png'height='100' width ='100'/> </a>]]>
     </line>
     <line>
       <![CDATA[==============  finished Tc_00_VerifyRegistrationwithValiddata===============]]>
@@ -52,191 +46,20 @@
     <line>
       <![CDATA[getResult method called]]>
     </line>
-    <line>
-      <![CDATA[creating browser object chrome]]>
-    </line>
-    <line>
-      <![CDATA[listner registeration done]]>
-    </line>
-    <line>
-      <![CDATA[navigating tohttp://adjiva.com/qa-test/]]>
-    </line>
-    <line>
-      <![CDATA[test object created fornull]]>
-    </line>
-    <line>
-      <![CDATA[==============  Starting TC_001_VerifyRegistrationWithSameEmailID===============]]>
-    </line>
-    <line>
-      <![CDATA[Register user with userId data]]>
-    </line>
-    <line>
-      <![CDATA[Filling  user details where  already used EmailId is given and it is:aartikulkarni25@yahoo.com]]>
-    </line>
-    <line>
-      <![CDATA[entered first name and object is:[[ChromeDriver: chrome on XP (c2c0148a428dda7569e0a065fe4c4fdc)] -> name: first_name]]]>
-    </line>
-    <line>
-      <![CDATA[entered last name and object is:[[ChromeDriver: chrome on XP (c2c0148a428dda7569e0a065fe4c4fdc)] -> name: last_name]]]>
-    </line>
-    <line>
-      <![CDATA[entered user name and object is:[[ChromeDriver: chrome on XP (c2c0148a428dda7569e0a065fe4c4fdc)] -> name: user_name]]]>
-    </line>
-    <line>
-      <![CDATA[entered user password and object is:[[ChromeDriver: chrome on XP (c2c0148a428dda7569e0a065fe4c4fdc)] -> name: user_password]]]>
-    </line>
-    <line>
-      <![CDATA[entered confirm user password and object is:[[ChromeDriver: chrome on XP (c2c0148a428dda7569e0a065fe4c4fdc)] -> name: confirm_password]]]>
-    </line>
-    <line>
-      <![CDATA[entered confirm email  and object is:[[ChromeDriver: chrome on XP (c2c0148a428dda7569e0a065fe4c4fdc)] -> name: email]]]>
-    </line>
-    <line>
-      <![CDATA[entered contact no  and object is:[[ChromeDriver: chrome on XP (c2c0148a428dda7569e0a065fe4c4fdc)] -> name: contact_no]]]>
-    </line>
-    <line>
-      <![CDATA[Submitting Registration Form]]>
-    </line>
-    <line>
-      <![CDATA[submit button is not enabled]]>
-    </line>
-    <line>
-      <![CDATA[screenshot has been taken for:blank]]>
-    </line>
-    <line>
-      <![CDATA[<a href='C:\Users\aarti.kulkarni\workspace\Deltax\src\main\java\DeltaxRegistration\Delatx_registartiongForm\screenshotblank_28_11_2017_12_57_47.png'> <img src='C:\Users\aarti.kulkarni\workspace\Deltax\src\main\java\DeltaxRegistration\Delatx_registartiongForm\screenshotblank_28_11_2017_12_57_47.png'height='100' width ='100'/> </a>]]>
-    </line>
-    <line>
-      <![CDATA[getResult method called]]>
-    </line>
-    <line>
-      <![CDATA[creating browser object chrome]]>
-    </line>
-    <line>
-      <![CDATA[listner registeration done]]>
-    </line>
-    <line>
-      <![CDATA[navigating tohttp://adjiva.com/qa-test/]]>
-    </line>
-    <line>
-      <![CDATA[test object created fornull]]>
-    </line>
-    <line>
-      <![CDATA[==============  Starting Tc_002_VerifyRegistrationWithInvalidData===============]]>
-    </line>
-    <line>
-      <![CDATA[Fiiling user details where Data is invalid ]]>
-    </line>
-    <line>
-      <![CDATA[entered first name and object is:[[ChromeDriver: chrome on XP (c50344c7aa490d80bfecaafe6200c3cf)] -> name: first_name]]]>
-    </line>
-    <line>
-      <![CDATA[entered last name and object is:[[ChromeDriver: chrome on XP (c50344c7aa490d80bfecaafe6200c3cf)] -> name: last_name]]]>
-    </line>
-    <line>
-      <![CDATA[entered user name and object is:[[ChromeDriver: chrome on XP (c50344c7aa490d80bfecaafe6200c3cf)] -> name: user_name]]]>
-    </line>
-    <line>
-      <![CDATA[entered user password and object is:[[ChromeDriver: chrome on XP (c50344c7aa490d80bfecaafe6200c3cf)] -> name: user_password]]]>
-    </line>
-    <line>
-      <![CDATA[entered confirm user password and object is:[[ChromeDriver: chrome on XP (c50344c7aa490d80bfecaafe6200c3cf)] -> name: confirm_password]]]>
-    </line>
-    <line>
-      <![CDATA[entered confirm email  and object is:[[ChromeDriver: chrome on XP (c50344c7aa490d80bfecaafe6200c3cf)] -> name: email]]]>
-    </line>
-    <line>
-      <![CDATA[entered contact no  and object is:[[ChromeDriver: chrome on XP (c50344c7aa490d80bfecaafe6200c3cf)] -> name: contact_no]]]>
-    </line>
-    <line>
-      <![CDATA[submit button is not enabled]]>
-    </line>
-    <line>
-      <![CDATA[screenshot has been taken for:registration_with_valid_data]]>
-    </line>
-    <line>
-      <![CDATA[<a href='C:\Users\aarti.kulkarni\workspace\Deltax\src\main\java\DeltaxRegistration\Delatx_registartiongForm\screenshotregistration_with_valid_data_28_11_2017_12_57_56.png'> <img src='C:\Users\aarti.kulkarni\workspace\Deltax\src\main\java\DeltaxRegistration\Delatx_registartiongForm\screenshotregistration_with_valid_data_28_11_2017_12_57_56.png'height='100' width ='100'/> </a>]]>
-    </line>
-    <line>
-      <![CDATA[==============  Finished Tc_002_VerifyRegistrationWithInvalidData===============]]>
-    </line>
-    <line>
-      <![CDATA[getResult method called]]>
-    </line>
-    <line>
-      <![CDATA[creating browser object chrome]]>
-    </line>
-    <line>
-      <![CDATA[listner registeration done]]>
-    </line>
-    <line>
-      <![CDATA[navigating tohttp://adjiva.com/qa-test/]]>
-    </line>
-    <line>
-      <![CDATA[test object created fornull]]>
-    </line>
-    <line>
-      <![CDATA[==============  Starting Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd===============]]>
-    </line>
-    <line>
-      <![CDATA[Register user with Confrim password is wrong ]]>
-    </line>
-    <line>
-      <![CDATA[entered first name and object is:[[ChromeDriver: chrome on XP (97e4b8bde4754ac4be74ef02f43f94a5)] -> name: first_name]]]>
-    </line>
-    <line>
-      <![CDATA[entered last name and object is:[[ChromeDriver: chrome on XP (97e4b8bde4754ac4be74ef02f43f94a5)] -> name: last_name]]]>
-    </line>
-    <line>
-      <![CDATA[entered user name and object is:[[ChromeDriver: chrome on XP (97e4b8bde4754ac4be74ef02f43f94a5)] -> name: user_name]]]>
-    </line>
-    <line>
-      <![CDATA[entered user password and object is:[[ChromeDriver: chrome on XP (97e4b8bde4754ac4be74ef02f43f94a5)] -> name: user_password]]]>
-    </line>
-    <line>
-      <![CDATA[entered confirm user password and object is:[[ChromeDriver: chrome on XP (97e4b8bde4754ac4be74ef02f43f94a5)] -> name: confirm_password]]]>
-    </line>
-    <line>
-      <![CDATA[entered confirm email  and object is:[[ChromeDriver: chrome on XP (97e4b8bde4754ac4be74ef02f43f94a5)] -> name: email]]]>
-    </line>
-    <line>
-      <![CDATA[entered contact no  and object is:[[ChromeDriver: chrome on XP (97e4b8bde4754ac4be74ef02f43f94a5)] -> name: contact_no]]]>
-    </line>
-    <line>
-      <![CDATA[submit button is not enabled]]>
-    </line>
-    <line>
-      <![CDATA[screenshot has been taken for:Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd]]>
-    </line>
-    <line>
-      <![CDATA[<a href='C:\Users\aarti.kulkarni\workspace\Deltax\src\main\java\DeltaxRegistration\Delatx_registartiongForm\screenshotTc_003_VerifyRegistrationForIncorrectConfirmPassowrd_28_11_2017_12_58_06.png'> <img src='C:\Users\aarti.kulkarni\workspace\Deltax\src\main\java\DeltaxRegistration\Delatx_registartiongForm\screenshotTc_003_VerifyRegistrationForIncorrectConfirmPassowrd_28_11_2017_12_58_06.png'height='100' width ='100'/> </a>]]>
-    </line>
-    <line>
-      <![CDATA[==============  Finished Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd===============]]>
-    </line>
-    <line>
-      <![CDATA[getResult method called]]>
-    </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="47649" started-at="2017-11-28T07:27:20Z" finished-at="2017-11-28T07:28:08Z">
+  <suite name="Default suite" duration-ms="8394" started-at="2017-11-28T14:34:57Z" finished-at="2017-11-28T14:35:06Z">
     <groups>
     </groups>
-    <test name="Test_1" duration-ms="19266" started-at="2017-11-28T07:27:20Z" finished-at="2017-11-28T07:27:39Z">
+    <test name="Default test" duration-ms="8394" started-at="2017-11-28T14:34:57Z" finished-at="2017-11-28T14:35:06Z">
       <class name="DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_00_VerifyRegistrationwithValiddata">
-        <test-method status="PASS" signature="setup()[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_00_VerifyRegistrationwithValiddata@3701eaf6]" name="setup" is-config="true" duration-ms="14142" started-at="2017-11-28T12:57:20Z" finished-at="2017-11-28T12:57:34Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_00_VerifyRegistrationwithValiddata@3701eaf6]" name="setup" is-config="true" duration-ms="4892" started-at="2017-11-28T20:04:57Z" finished-at="2017-11-28T20:05:02Z">
           <reporter-output>
-            <line>
-              <![CDATA[creating browser object chrome]]>
-            </line>
-            <line>
-              <![CDATA[listner registeration done]]>
-            </line>
             <line>
               <![CDATA[navigating tohttp://adjiva.com/qa-test/]]>
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_00_VerifyRegistrationwithValiddata@3701eaf6]" name="beforeMethod" is-config="true" duration-ms="3" started-at="2017-11-28T12:57:34Z" finished-at="2017-11-28T12:57:34Z">
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_00_VerifyRegistrationwithValiddata@3701eaf6]" name="beforeMethod" is-config="true" duration-ms="3" started-at="2017-11-28T20:05:03Z" finished-at="2017-11-28T20:05:03Z">
           <params>
             <param index="0">
               <value>
@@ -250,7 +73,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="VerifyRegistrationwithValiddata(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_00_VerifyRegistrationwithValiddata@3701eaf6]" name="VerifyRegistrationwithValiddata" duration-ms="3060" started-at="2017-11-28T12:57:34Z" data-provider="testData" finished-at="2017-11-28T12:57:38Z">
+        <test-method status="PASS" signature="VerifyRegistrationwithValiddata(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_00_VerifyRegistrationwithValiddata@3701eaf6]" name="VerifyRegistrationwithValiddata" duration-ms="1841" started-at="2017-11-28T20:05:03Z" data-provider="testData" finished-at="2017-11-28T20:05:04Z">
           <params>
             <param index="0">
               <value>
@@ -298,25 +121,25 @@
               <![CDATA[==============  starting Tc_00_VerifyRegistrationwithValiddata===============]]>
             </line>
             <line>
-              <![CDATA[entered first name and object is:[[ChromeDriver: chrome on XP (c519e71672e27e76123c45a532fe40b9)] -> name: first_name]]]>
+              <![CDATA[entered first name and object is:[[FirefoxDriver: firefox on ANY (e7dda18a-898e-4362-83fa-450930ce0d1a)] -> name: first_name]]]>
             </line>
             <line>
-              <![CDATA[entered last name and object is:[[ChromeDriver: chrome on XP (c519e71672e27e76123c45a532fe40b9)] -> name: last_name]]]>
+              <![CDATA[entered last name and object is:[[FirefoxDriver: firefox on ANY (e7dda18a-898e-4362-83fa-450930ce0d1a)] -> name: last_name]]]>
             </line>
             <line>
-              <![CDATA[entered user name and object is:[[ChromeDriver: chrome on XP (c519e71672e27e76123c45a532fe40b9)] -> name: user_name]]]>
+              <![CDATA[entered user name and object is:[[FirefoxDriver: firefox on ANY (e7dda18a-898e-4362-83fa-450930ce0d1a)] -> name: user_name]]]>
             </line>
             <line>
-              <![CDATA[entered user password and object is:[[ChromeDriver: chrome on XP (c519e71672e27e76123c45a532fe40b9)] -> name: user_password]]]>
+              <![CDATA[entered user password and object is:[[FirefoxDriver: firefox on ANY (e7dda18a-898e-4362-83fa-450930ce0d1a)] -> name: user_password]]]>
             </line>
             <line>
-              <![CDATA[entered confirm user password and object is:[[ChromeDriver: chrome on XP (c519e71672e27e76123c45a532fe40b9)] -> name: confirm_password]]]>
+              <![CDATA[entered confirm user password and object is:[[FirefoxDriver: firefox on ANY (e7dda18a-898e-4362-83fa-450930ce0d1a)] -> name: confirm_password]]]>
             </line>
             <line>
-              <![CDATA[entered confirm email  and object is:[[ChromeDriver: chrome on XP (c519e71672e27e76123c45a532fe40b9)] -> name: email]]]>
+              <![CDATA[entered confirm email  and object is:[[FirefoxDriver: firefox on ANY (e7dda18a-898e-4362-83fa-450930ce0d1a)] -> name: email]]]>
             </line>
             <line>
-              <![CDATA[entered contact no  and object is:[[ChromeDriver: chrome on XP (c519e71672e27e76123c45a532fe40b9)] -> name: contact_no]]]>
+              <![CDATA[entered contact no  and object is:[[FirefoxDriver: firefox on ANY (e7dda18a-898e-4362-83fa-450930ce0d1a)] -> name: contact_no]]]>
             </line>
             <line>
               <![CDATA[submit button is not enabled]]>
@@ -325,14 +148,14 @@
               <![CDATA[screenshot has been taken for:registration_with_valid_data]]>
             </line>
             <line>
-              <![CDATA[<a href='C:\Users\aarti.kulkarni\workspace\Deltax\src\main\java\DeltaxRegistration\Delatx_registartiongForm\screenshotregistration_with_valid_data_28_11_2017_12_57_37.png'> <img src='C:\Users\aarti.kulkarni\workspace\Deltax\src\main\java\DeltaxRegistration\Delatx_registartiongForm\screenshotregistration_with_valid_data_28_11_2017_12_57_37.png'height='100' width ='100'/> </a>]]>
+              <![CDATA[<a href='C:\Users\aarti.kulkarni\workspace\Deltax\src\main\java\DeltaxRegistration\Delatx_registartiongForm\screenshotregistration_with_valid_data_28_11_2017_08_05_04.png'> <img src='C:\Users\aarti.kulkarni\workspace\Deltax\src\main\java\DeltaxRegistration\Delatx_registartiongForm\screenshotregistration_with_valid_data_28_11_2017_08_05_04.png'height='100' width ='100'/> </a>]]>
             </line>
             <line>
               <![CDATA[==============  finished Tc_00_VerifyRegistrationwithValiddata===============]]>
             </line>
           </reporter-output>
         </test-method> <!-- VerifyRegistrationwithValiddata -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_00_VerifyRegistrationwithValiddata@3701eaf6]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-11-28T12:57:38Z" finished-at="2017-11-28T12:57:38Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_00_VerifyRegistrationwithValiddata@3701eaf6]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-11-28T20:05:04Z" finished-at="2017-11-28T20:05:04Z">
           <params>
             <param index="0">
               <value>
@@ -346,457 +169,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_00_VerifyRegistrationwithValiddata@3701eaf6]" name="endTest" is-config="true" duration-ms="1628" started-at="2017-11-28T12:57:38Z" finished-at="2017-11-28T12:57:39Z">
+        <test-method status="PASS" signature="endTest()[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_00_VerifyRegistrationwithValiddata@3701eaf6]" name="endTest" is-config="true" duration-ms="1176" started-at="2017-11-28T20:05:04Z" finished-at="2017-11-28T20:05:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->
       </class> <!-- DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_00_VerifyRegistrationwithValiddata -->
-    </test> <!-- Test_1 -->
-    <test name="Test_2" duration-ms="9454" started-at="2017-11-28T07:27:39Z" finished-at="2017-11-28T07:27:49Z">
-      <class name="DeltaxRegistration.Delatx_registartiongForm.Registration.TC_001_VerifyRegistrationWithSameEmailID">
-        <test-method status="PASS" signature="setup()[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.TC_001_VerifyRegistrationWithSameEmailID@68bbe345]" name="setup" is-config="true" duration-ms="4736" started-at="2017-11-28T12:57:39Z" finished-at="2017-11-28T12:57:44Z">
-          <reporter-output>
-            <line>
-              <![CDATA[creating browser object chrome]]>
-            </line>
-            <line>
-              <![CDATA[listner registeration done]]>
-            </line>
-            <line>
-              <![CDATA[navigating tohttp://adjiva.com/qa-test/]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.TC_001_VerifyRegistrationWithSameEmailID@68bbe345]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-11-28T12:57:44Z" finished-at="2017-11-28T12:57:44Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=verifyRegistrationWithSameEmailID status=FAILURE method=TC_001_VerifyRegistrationWithSameEmailID.verifyRegistrationWithSameEmailID(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.TC_001_VerifyRegistrationWithSameEmailID@68bbe345] output===============  Starting TC_001_VerifyRegistrationWithSameEmailID===============]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[test object created fornull]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="FAIL" signature="verifyRegistrationWithSameEmailID(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.TC_001_VerifyRegistrationWithSameEmailID@68bbe345]" name="verifyRegistrationWithSameEmailID" duration-ms="2960" started-at="2017-11-28T12:57:44Z" data-provider="testData" finished-at="2017-11-28T12:57:47Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[aaa]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[aaaa]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[aarti.kulkarni3]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[aarti.kulkarni3]]>
-              </value>
-            </param>
-            <param index="4">
-              <value>
-                <![CDATA[aarti.kulkarni3]]>
-              </value>
-            </param>
-            <param index="5">
-              <value>
-                <![CDATA[Engineering]]>
-              </value>
-            </param>
-            <param index="6">
-              <value>
-                <![CDATA[aartikulkarni25@yahoo.com]]>
-              </value>
-            </param>
-            <param index="7">
-              <value>
-                <![CDATA[9.503504845E9]]>
-              </value>
-            </param>
-          </params>
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[expected [false] but found [true]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [false] but found [true]
-	at org.testng.Assert.fail(Assert.java:94)
-	at org.testng.Assert.failNotEquals(Assert.java:513)
-	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
-	at org.testng.Assert.assertEquals(Assert.java:116)
-	at org.testng.Assert.assertEquals(Assert.java:305)
-	at org.testng.Assert.assertEquals(Assert.java:315)
-	at DeltaxRegistration.Delatx_registartiongForm.Registration.TC_001_VerifyRegistrationWithSameEmailID.verifyRegistrationWithSameEmailID(TC_001_VerifyRegistrationWithSameEmailID.java:52)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
-	at org.testng.TestRunner.privateRun(TestRunner.java:756)
-	at org.testng.TestRunner.run(TestRunner.java:610)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
-	at org.testng.TestNG.runSuites(TestNG.java:1133)
-	at org.testng.TestNG.run(TestNG.java:1104)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
-          <reporter-output>
-            <line>
-              <![CDATA[==============  Starting TC_001_VerifyRegistrationWithSameEmailID===============]]>
-            </line>
-            <line>
-              <![CDATA[Register user with userId data]]>
-            </line>
-            <line>
-              <![CDATA[Filling  user details where  already used EmailId is given and it is:aartikulkarni25@yahoo.com]]>
-            </line>
-            <line>
-              <![CDATA[entered first name and object is:[[ChromeDriver: chrome on XP (c2c0148a428dda7569e0a065fe4c4fdc)] -> name: first_name]]]>
-            </line>
-            <line>
-              <![CDATA[entered last name and object is:[[ChromeDriver: chrome on XP (c2c0148a428dda7569e0a065fe4c4fdc)] -> name: last_name]]]>
-            </line>
-            <line>
-              <![CDATA[entered user name and object is:[[ChromeDriver: chrome on XP (c2c0148a428dda7569e0a065fe4c4fdc)] -> name: user_name]]]>
-            </line>
-            <line>
-              <![CDATA[entered user password and object is:[[ChromeDriver: chrome on XP (c2c0148a428dda7569e0a065fe4c4fdc)] -> name: user_password]]]>
-            </line>
-            <line>
-              <![CDATA[entered confirm user password and object is:[[ChromeDriver: chrome on XP (c2c0148a428dda7569e0a065fe4c4fdc)] -> name: confirm_password]]]>
-            </line>
-            <line>
-              <![CDATA[entered confirm email  and object is:[[ChromeDriver: chrome on XP (c2c0148a428dda7569e0a065fe4c4fdc)] -> name: email]]]>
-            </line>
-            <line>
-              <![CDATA[entered contact no  and object is:[[ChromeDriver: chrome on XP (c2c0148a428dda7569e0a065fe4c4fdc)] -> name: contact_no]]]>
-            </line>
-            <line>
-              <![CDATA[Submitting Registration Form]]>
-            </line>
-            <line>
-              <![CDATA[submit button is not enabled]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- verifyRegistrationWithSameEmailID -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.TC_001_VerifyRegistrationWithSameEmailID@68bbe345]" name="afterMethod" is-config="true" duration-ms="347" started-at="2017-11-28T12:57:47Z" finished-at="2017-11-28T12:57:47Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=verifyRegistrationWithSameEmailID status=FAILURE method=TC_001_VerifyRegistrationWithSameEmailID.verifyRegistrationWithSameEmailID(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.TC_001_VerifyRegistrationWithSameEmailID@68bbe345] output===============  Starting TC_001_VerifyRegistrationWithSameEmailID===============]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[screenshot has been taken for:blank]]>
-            </line>
-            <line>
-              <![CDATA[<a href='C:\Users\aarti.kulkarni\workspace\Deltax\src\main\java\DeltaxRegistration\Delatx_registartiongForm\screenshotblank_28_11_2017_12_57_47.png'> <img src='C:\Users\aarti.kulkarni\workspace\Deltax\src\main\java\DeltaxRegistration\Delatx_registartiongForm\screenshotblank_28_11_2017_12_57_47.png'height='100' width ='100'/> </a>]]>
-            </line>
-            <line>
-              <![CDATA[getResult method called]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.TC_001_VerifyRegistrationWithSameEmailID@68bbe345]" name="endTest" is-config="true" duration-ms="1359" started-at="2017-11-28T12:57:47Z" finished-at="2017-11-28T12:57:49Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- endTest -->
-      </class> <!-- DeltaxRegistration.Delatx_registartiongForm.Registration.TC_001_VerifyRegistrationWithSameEmailID -->
-    </test> <!-- Test_2 -->
-    <test name="Test_3" duration-ms="8929" started-at="2017-11-28T07:27:49Z" finished-at="2017-11-28T07:27:58Z">
-      <class name="DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_002_VerifyRegistrationWithInvalidData">
-        <test-method status="PASS" signature="setup()[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_002_VerifyRegistrationWithInvalidData@5e853265]" name="setup" is-config="true" duration-ms="4655" started-at="2017-11-28T12:57:49Z" finished-at="2017-11-28T12:57:53Z">
-          <reporter-output>
-            <line>
-              <![CDATA[creating browser object chrome]]>
-            </line>
-            <line>
-              <![CDATA[listner registeration done]]>
-            </line>
-            <line>
-              <![CDATA[navigating tohttp://adjiva.com/qa-test/]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_002_VerifyRegistrationWithInvalidData@5e853265]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-11-28T12:57:53Z" finished-at="2017-11-28T12:57:53Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=VerifyRegistrationwithValiddata status=SUCCESS method=Tc_002_VerifyRegistrationWithInvalidData.VerifyRegistrationwithValiddata(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_002_VerifyRegistrationWithInvalidData@5e853265] output===============  Starting Tc_002_VerifyRegistrationWithInvalidData===============]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[test object created fornull]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="VerifyRegistrationwithValiddata(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_002_VerifyRegistrationWithInvalidData@5e853265]" name="VerifyRegistrationwithValiddata" duration-ms="2916" started-at="2017-11-28T12:57:53Z" data-provider="testData" finished-at="2017-11-28T12:57:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[a]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[a]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[aarti.kulka]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[aarti.kul]]>
-              </value>
-            </param>
-            <param index="4">
-              <value>
-                <![CDATA[aarti.kulk]]>
-              </value>
-            </param>
-            <param index="5">
-              <value>
-                <![CDATA[Engineering]]>
-              </value>
-            </param>
-            <param index="6">
-              <value>
-                <![CDATA[aartikulkarni25@yahoo.com]]>
-              </value>
-            </param>
-            <param index="7">
-              <value>
-                <![CDATA[9.503504845E9]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[==============  Starting Tc_002_VerifyRegistrationWithInvalidData===============]]>
-            </line>
-            <line>
-              <![CDATA[Fiiling user details where Data is invalid ]]>
-            </line>
-            <line>
-              <![CDATA[entered first name and object is:[[ChromeDriver: chrome on XP (c50344c7aa490d80bfecaafe6200c3cf)] -> name: first_name]]]>
-            </line>
-            <line>
-              <![CDATA[entered last name and object is:[[ChromeDriver: chrome on XP (c50344c7aa490d80bfecaafe6200c3cf)] -> name: last_name]]]>
-            </line>
-            <line>
-              <![CDATA[entered user name and object is:[[ChromeDriver: chrome on XP (c50344c7aa490d80bfecaafe6200c3cf)] -> name: user_name]]]>
-            </line>
-            <line>
-              <![CDATA[entered user password and object is:[[ChromeDriver: chrome on XP (c50344c7aa490d80bfecaafe6200c3cf)] -> name: user_password]]]>
-            </line>
-            <line>
-              <![CDATA[entered confirm user password and object is:[[ChromeDriver: chrome on XP (c50344c7aa490d80bfecaafe6200c3cf)] -> name: confirm_password]]]>
-            </line>
-            <line>
-              <![CDATA[entered confirm email  and object is:[[ChromeDriver: chrome on XP (c50344c7aa490d80bfecaafe6200c3cf)] -> name: email]]]>
-            </line>
-            <line>
-              <![CDATA[entered contact no  and object is:[[ChromeDriver: chrome on XP (c50344c7aa490d80bfecaafe6200c3cf)] -> name: contact_no]]]>
-            </line>
-            <line>
-              <![CDATA[submit button is not enabled]]>
-            </line>
-            <line>
-              <![CDATA[screenshot has been taken for:registration_with_valid_data]]>
-            </line>
-            <line>
-              <![CDATA[<a href='C:\Users\aarti.kulkarni\workspace\Deltax\src\main\java\DeltaxRegistration\Delatx_registartiongForm\screenshotregistration_with_valid_data_28_11_2017_12_57_56.png'> <img src='C:\Users\aarti.kulkarni\workspace\Deltax\src\main\java\DeltaxRegistration\Delatx_registartiongForm\screenshotregistration_with_valid_data_28_11_2017_12_57_56.png'height='100' width ='100'/> </a>]]>
-            </line>
-            <line>
-              <![CDATA[==============  Finished Tc_002_VerifyRegistrationWithInvalidData===============]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- VerifyRegistrationwithValiddata -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_002_VerifyRegistrationWithInvalidData@5e853265]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-11-28T12:57:56Z" finished-at="2017-11-28T12:57:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=VerifyRegistrationwithValiddata status=SUCCESS method=Tc_002_VerifyRegistrationWithInvalidData.VerifyRegistrationwithValiddata(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_002_VerifyRegistrationWithInvalidData@5e853265] output===============  Starting Tc_002_VerifyRegistrationWithInvalidData===============]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[getResult method called]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_002_VerifyRegistrationWithInvalidData@5e853265]" name="endTest" is-config="true" duration-ms="1323" started-at="2017-11-28T12:57:56Z" finished-at="2017-11-28T12:57:58Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- endTest -->
-      </class> <!-- DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_002_VerifyRegistrationWithInvalidData -->
-    </test> <!-- Test_3 -->
-    <test name="Test_4" duration-ms="9931" started-at="2017-11-28T07:27:58Z" finished-at="2017-11-28T07:28:08Z">
-      <class name="DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd">
-        <test-method status="PASS" signature="setup()[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd@614ddd49]" name="setup" is-config="true" duration-ms="5469" started-at="2017-11-28T12:57:58Z" finished-at="2017-11-28T12:58:03Z">
-          <reporter-output>
-            <line>
-              <![CDATA[creating browser object chrome]]>
-            </line>
-            <line>
-              <![CDATA[listner registeration done]]>
-            </line>
-            <line>
-              <![CDATA[navigating tohttp://adjiva.com/qa-test/]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="VerifyRegistrationwithValiddata(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd@614ddd49]" name="VerifyRegistrationwithValiddata" duration-ms="3059" started-at="2017-11-28T12:58:03Z" data-provider="testData" finished-at="2017-11-28T12:58:06Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[aaa]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[aaaa]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[aarti.kulkarni1]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[aarti.kulkarni1]]>
-              </value>
-            </param>
-            <param index="4">
-              <value>
-                <![CDATA[aarti.kulkarni2]]>
-              </value>
-            </param>
-            <param index="5">
-              <value>
-                <![CDATA[Engineering]]>
-              </value>
-            </param>
-            <param index="6">
-              <value>
-                <![CDATA[aartikulkarni25@yahoo.com]]>
-              </value>
-            </param>
-            <param index="7">
-              <value>
-                <![CDATA[9.503504845E9]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[==============  Starting Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd===============]]>
-            </line>
-            <line>
-              <![CDATA[Register user with Confrim password is wrong ]]>
-            </line>
-            <line>
-              <![CDATA[entered first name and object is:[[ChromeDriver: chrome on XP (97e4b8bde4754ac4be74ef02f43f94a5)] -> name: first_name]]]>
-            </line>
-            <line>
-              <![CDATA[entered last name and object is:[[ChromeDriver: chrome on XP (97e4b8bde4754ac4be74ef02f43f94a5)] -> name: last_name]]]>
-            </line>
-            <line>
-              <![CDATA[entered user name and object is:[[ChromeDriver: chrome on XP (97e4b8bde4754ac4be74ef02f43f94a5)] -> name: user_name]]]>
-            </line>
-            <line>
-              <![CDATA[entered user password and object is:[[ChromeDriver: chrome on XP (97e4b8bde4754ac4be74ef02f43f94a5)] -> name: user_password]]]>
-            </line>
-            <line>
-              <![CDATA[entered confirm user password and object is:[[ChromeDriver: chrome on XP (97e4b8bde4754ac4be74ef02f43f94a5)] -> name: confirm_password]]]>
-            </line>
-            <line>
-              <![CDATA[entered confirm email  and object is:[[ChromeDriver: chrome on XP (97e4b8bde4754ac4be74ef02f43f94a5)] -> name: email]]]>
-            </line>
-            <line>
-              <![CDATA[entered contact no  and object is:[[ChromeDriver: chrome on XP (97e4b8bde4754ac4be74ef02f43f94a5)] -> name: contact_no]]]>
-            </line>
-            <line>
-              <![CDATA[submit button is not enabled]]>
-            </line>
-            <line>
-              <![CDATA[screenshot has been taken for:Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd]]>
-            </line>
-            <line>
-              <![CDATA[<a href='C:\Users\aarti.kulkarni\workspace\Deltax\src\main\java\DeltaxRegistration\Delatx_registartiongForm\screenshotTc_003_VerifyRegistrationForIncorrectConfirmPassowrd_28_11_2017_12_58_06.png'> <img src='C:\Users\aarti.kulkarni\workspace\Deltax\src\main\java\DeltaxRegistration\Delatx_registartiongForm\screenshotTc_003_VerifyRegistrationForIncorrectConfirmPassowrd_28_11_2017_12_58_06.png'height='100' width ='100'/> </a>]]>
-            </line>
-            <line>
-              <![CDATA[==============  Finished Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd===============]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- VerifyRegistrationwithValiddata -->
-        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd@614ddd49]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-11-28T12:58:03Z" finished-at="2017-11-28T12:58:03Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=VerifyRegistrationwithValiddata status=SUCCESS method=Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd.VerifyRegistrationwithValiddata(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd@614ddd49] output===============  Starting Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd===============]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[test object created fornull]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd@614ddd49]" name="endTest" is-config="true" duration-ms="1373" started-at="2017-11-28T12:58:06Z" finished-at="2017-11-28T12:58:08Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- endTest -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd@614ddd49]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-11-28T12:58:06Z" finished-at="2017-11-28T12:58:06Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=VerifyRegistrationwithValiddata status=SUCCESS method=Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd.VerifyRegistrationwithValiddata(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd@614ddd49] output===============  Starting Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd===============]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[getResult method called]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-      </class> <!-- DeltaxRegistration.Delatx_registartiongForm.Registration.Tc_003_VerifyRegistrationForIncorrectConfirmPassowrd -->
-    </test> <!-- Test_4 -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

@@ -42,9 +42,12 @@ public class RegistrationForm extends TestBase {
 	WebElement title_Registration_Form;
 	@FindBy(how=How.XPATH,using=".//*[contains(text(),'This value is not valid')]")
 	public WebElement invalid_data_title;
+	@FindBy(how=How.XPATH,using=".//*[contains(text(),'Thanks')]")
+	public WebElement thanks_title;
 	
 	
-	
+
+
 	
 	public RegistrationForm(WebDriver driver) {
 		PageFactory.initElements(driver, this);
@@ -81,6 +84,9 @@ public class RegistrationForm extends TestBase {
 		if (submit.isEnabled()==true) {
 			log("submit button is  enabled");
 			submit.click();
+			waitForElement(30, thanks_title);
+			driver.navigate().refresh();
+			
 			
 		}else {
 			

@@ -49,6 +49,7 @@ public class Tc_00_VerifyRegistrationwithValiddata extends TestBase {
 		register = new RegistrationForm(driver);
 		register.registerUser(fname, lname, uname, password, dep, c_password, ename, contactNumber);
 		register.submitForm();
+		
 		takeScreenshot("registration_with_valid_data");
 		}
 		catch (InvalidElementStateException e) {

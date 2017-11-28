@@ -42,6 +42,7 @@ public class ExcelRead {
 	{
 	   sheet = workbook.getSheet(sheetName);
 	   int total_row = sheet.getLastRowNum();
+	  System.out.println(total_row);
      
        int total_column = sheet.getRow(0).getLastCellNum();
 	   datasets = new String[total_row-1][total_column];
@@ -49,8 +50,7 @@ public class ExcelRead {
 		   row = sheet.getRow(i);
 		   for (int j = 0; j < total_column; j++) {
 		   XSSFCell cell = row.getCell(j);
-		   System.out.println(cell);
-		   System.out.println(cell.getCellType());
+		   
 		   if (cell.getCellType()==cell.CELL_TYPE_STRING) {
 				datasets[i-1][j]=cell.getStringCellValue();
 			}
